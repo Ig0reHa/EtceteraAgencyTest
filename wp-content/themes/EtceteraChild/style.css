@@ -1,0 +1,38 @@
+/*
+Theme Name: UnderStrap Child
+Template: Etcetera
+*/
+
+main.site-main .post,
+main.site-main .property-object {
+  margin-bottom: 40px;
+}
+
+.widget-area .property-object-sidebar {
+  margin-bottom: 30px;
+}
+
+#filter > select,
+#filter > label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#filter .range-box {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+#filter .range-box .range-values {
+  display: flex;
+}
+
+#filter .range-box .range-values input {
+  max-width: 50px;
+  margin-left: 10px;
+}
+
+#property-filter-items-box .property-filter-items {
+  margin-top: 25px;
+}
